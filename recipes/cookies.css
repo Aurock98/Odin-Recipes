@@ -1,0 +1,37 @@
+h1 {
+    font-family:'Fredoka';
+    font-style: italic;
+    font-size: 50px;
+    text-align: center;
+}
+
+#ima {
+    width: 50%; 
+	height: auto; 
+	margin: auto; 
+	display:block;
+}
+
+h2 {
+    font-family: 'Andale Mono', monospace;
+    background-color: #8a837d;
+    margin: 60px;
+    padding: 20px;
+    color:antiquewhite;
+}
+
+p {
+    font-family:'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+ul {
+    list-style-type: circle;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+ol {
+    list-style-type: decimal;
+    font-size: 20px;
+    font-family:'Times New Roman', Times, serif;
+}

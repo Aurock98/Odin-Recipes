@@ -1,0 +1,24 @@
+#title { 
+	color: white; 
+	font-family: "Lucida Console", "Courier New" , monospace; 
+	font-size: 60px;
+	text-align: center;
+	font-style: oblique;
+}
+
+#framed { 
+	width: 560; 
+	height: 315; 
+	margin: auto; 
+	display:block;
+	animation: fadeIn 1s forwards;
+    animation-delay: 2.3s;
+}
+
+.container { 
+	display:flex;
+	flex-direction:row;
+	justify-content: center;
+	margin: 20px;
+}
+

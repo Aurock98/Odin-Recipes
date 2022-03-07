@@ -1,0 +1,42 @@
+@font-face{
+    font-family: "Fredoka";
+    src: url('recipes/Fredoka.ttf') format("truetype");
+  }
+
+h1 {
+    font-family:'Fredoka';
+    font-style: italic;
+    font-size: 50px;
+    text-align: center;
+}
+
+#img {
+    width: 50%; 
+	height: auto; 
+	margin: auto; 
+	display:block;
+}
+
+h2 {
+    font-family: 'Andale Mono', monospace;
+    background-color: #f3eeea;
+    margin: 60px;
+    padding: 20px;
+    color:#424242;
+}
+
+p {
+    font-family:'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+ul {
+    list-style-type: circle;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+ol {
+    list-style-type: decimal;
+    font-size: 20px;
+    font-family:'Times New Roman', Times, serif;
+}
